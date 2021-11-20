@@ -1,10 +1,10 @@
 <h1>
-  Всем привет 👋,
+  Всем привет <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
   <br>
-  Меня зовут Артур Савчук, я frontend разработчик
+  Меня зовут Артур Савчук, 
+  <br>
+  я frontend разработчик
 </h1>
-
-<br>
 
 <h3>Основыне рабочие инструмены:</h3>
 <div style="display:flex;align-items:center;column-gap:30px;">
